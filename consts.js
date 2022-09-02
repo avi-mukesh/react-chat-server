@@ -1,0 +1,3 @@
+const MESSAGE_EXPIRY_TIME = 60000
+
+module.exports = { MESSAGE_EXPIRY_TIME }
